@@ -1,0 +1,32 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: bisque;
+    padding: 1rem;
+    margin: auto;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+h2 {
+    color: rgb(53, 15, 81);
+}
+
+.button {
+    color: rgb(235, 237, 231);
+    background-color: green;
+    border-radius: .5rem;
+    font-size: 20px;  
+    padding: 15px 32px;
+    border: none;
+}
+
+.button-btn {
+    color: rgb(235, 237, 231);
+    border: none;
+    background-color: #5627e1;
+    border-radius: 0.5rem;
+    padding: 14px 40px;
+}
