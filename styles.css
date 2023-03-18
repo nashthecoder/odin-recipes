@@ -33,9 +33,10 @@ h2 {
 .button-btn {
     color: rgb(235, 237, 231);
     border: none;
-    background-color: #5627e1;
+    background-color: #6540d4;
     border-radius: 0.5rem;
     padding: 14px 40px;
+    width: 250px;
     display: block;
     margin-left: auto;
     margin-right: auto;
